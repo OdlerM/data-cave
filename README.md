@@ -1,5 +1,5 @@
-# data-stack
-Welcome to my data-stack, an ever expanding page with random projects, R and Python scripts and other data-science related stuff I'm spending my time on.
+# data-cave
+Welcome to my data-cave, an ever expanding page with random projects, R and Python scripts and other data-science related stuff I'm spending my time on.
 
 Some basic RShiny apps I played around with:
 
